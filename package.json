@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-   "proxy":https://social-media-web-server.onrender.com/"
+   "proxy":"https://social-media-web-server.onrender.com/"
 }
